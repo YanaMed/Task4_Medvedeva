@@ -1,0 +1,13 @@
+/
+/home
+/mnt
+/boot
+/snap
+/media
+/run
+/opt
+/srv
+/usr
+/dev
+/var
+/etc
